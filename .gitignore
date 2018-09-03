@@ -1,0 +1,13 @@
+### VS Code settings ignore
+.vscode
+### go build
+pkg
+vendor
+bin
+### Jetbrain IDE's
+.idea
+### OSX template
+.DS_Store
+.AppleDouble
+.LSOverride
+.*.sw?
